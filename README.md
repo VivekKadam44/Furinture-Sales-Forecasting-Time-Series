@@ -37,3 +37,6 @@ The following time series analysis techniques are used in this project:
 
 ## Results
 The forecasted sales data for the next 12 months provides valuable insights into the expected performance of furniture sales. The accuracy of the forecasts is evaluated using metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
+
+## Note
+Had issues with while importing pmdarima library because of internal clashing of libraries. In few days will upload the update code file. The code written will work properly if the library mentioned is installed already.
